@@ -12,5 +12,7 @@ public class App
         System.out.println("segona prova amb el git");
         System.out.println("aixo es la segona rama");
         System.out.println("aixo es la segona rama 2");
+        
+        System.out.println("aixo es la segona rama 3");
     }
 }
